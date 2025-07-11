@@ -16,8 +16,9 @@ A simple web-based Contact Management System built using **Python (Flask)**, **H
 
 ## 📁 Project Structure
 contact_manager/
-├── app.py # Flask backend application
-├── contacts.json # JSON file for storing contact data
+│
+├── app.py
+├── contacts.json
 ├── templates/
-│ └── index.html # Frontend HTML file
+│   └── index.html
 
