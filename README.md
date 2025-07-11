@@ -21,4 +21,3 @@ A simple web-based Contact Management System built using **Python (Flask)**, **H
 ├── contacts.json        # JSON file for storing contacts
 ├── templates/
 │   └── index.html       # Frontend HTML template
-└── README.md            # Project documentation
